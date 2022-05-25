@@ -1,0 +1,4 @@
+--- Auto Shoe Collector v1
+--- Made by Halloween#0001
+--- Only Works Inside Hood Kicks and Is A Bit Buggy
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Halloween123456/shoecollecter/main/halloween'))()
